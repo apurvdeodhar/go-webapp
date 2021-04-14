@@ -1,2 +1,6 @@
-# sample-go-app
-This is a sample GOLANG app
+# Simple golang webapp
+
+```bash
+    go build -o main && ./main
+```
+Access the application at http://localhost:8080  
