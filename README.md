@@ -1,2 +1,2 @@
-# go-webapp
-Sample go webapp
+# sample-go-app
+This is a sample GOLANG app
